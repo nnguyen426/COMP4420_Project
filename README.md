@@ -25,6 +25,7 @@ https://www.geeksforgeeks.org/java/java-program-to-implement-hashtables-with-lin
 Swiss table code references:
 <br />
 https://github.com/bluuewhale/hash-smith
+<br />
 https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/
 <br />
 Code was removed from it to adjust for the benchmark, assumptions of the study, and to ensure a fair comparison of hash table schemes.
